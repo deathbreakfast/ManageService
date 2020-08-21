@@ -3,8 +3,7 @@
 # dependencies
 /node_modules
 /.pnp
-/manageservice
-.manage-service.ini
+/manageservice/.manage-service.ini
 .pnp.js
 
 # testing
