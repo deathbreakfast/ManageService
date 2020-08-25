@@ -16,6 +16,14 @@ You can run using python 3.
 `python3 manage-service.py`
 
 
+## Installing from repo
+
+`python3 setup.py install`
+
+## Building binary
+
+`python3 setup_cx.py build`
+
 
 ## TODO
 

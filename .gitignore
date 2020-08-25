@@ -5,6 +5,8 @@
 /.pnp
 /manageservice/.manage-service.ini
 .pnp.js
+/manageservice.egg-info
+/dist
 
 # testing
 /coverage

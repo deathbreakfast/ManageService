@@ -1,0 +1,5 @@
+Source: manage-service
+Maintainer: Sean O'Rourke
+
+Package: manage-service
+Architecture: all

@@ -1,4 +1,4 @@
-from setuptools import setup
+from setuptools import setup 
 
 setup(
   name='manageservice',
@@ -14,5 +14,7 @@ setup(
   install_requires=[
     "pygithub",
     "configparser",	
+    "cx_Freeze",
     ],
-  zip_safe=False)
+  zip_safe=False,
+)
