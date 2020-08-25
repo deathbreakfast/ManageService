@@ -11,6 +11,7 @@
 # production
 /build
 .pybuild/
+manage-service.ini
 
 # misc
 .DS_Store
