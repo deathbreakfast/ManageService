@@ -11,7 +11,7 @@ executables = [
 
 setup(
         name='Manage Service',
-        version = '0.1.0',
+        version = '1.0.0',
         description = 'A python service that can be used to pull a master branch from GitHub and start it',
         executables = executables
 )

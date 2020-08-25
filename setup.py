@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
   name='manageservice',
-  version='0.1',
+  version='1.0.0',
   description='A python service that can be used to pull a master branch from GitHub and start it',
   author='seanorourke',
   author_email='sean.f.orourke@gmail.com.com',
