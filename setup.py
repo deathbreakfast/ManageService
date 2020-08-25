@@ -14,7 +14,6 @@ setup(
   install_requires=[
     "pygithub",
     "configparser",	
-    "cx_Freeze",
     ],
   zip_safe=False,
 )
