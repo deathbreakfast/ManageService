@@ -1,5 +1,8 @@
 Source: manage-service
-Maintainer: Sean O'Rourke
+Section: python
+Priority: extra
+Maintainer: Sean O'Rourke <deathbreakfast2@gmail.com>
 
 Package: manage-service
-Architecture: all
+Architecture: any
+Description: Service that will check a Github repo and download the master branch if it has a newer rev
