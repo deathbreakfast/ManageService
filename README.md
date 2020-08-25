@@ -16,17 +16,11 @@ You can run using python 3.
 `python3 manage-service.py`
 
 
-## Installing from repo
+## Instalation 
 
-`python3 setup.py install`
-
-## Building binary
-
-`python3 setup_cx.py build`
+`bash setup.sh`
 
 
 ## TODO
 
 * Migrate to use login token vs username password.
-* Build service so it doesn't rely on python.
-* Make a cask.
