@@ -16,9 +16,11 @@ You can run using python 3.
 `python3 manage-service.py`
 
 
+## Instalation 
+
+`bash setup.sh`
+
 
 ## TODO
 
 * Migrate to use login token vs username password.
-* Build service so it doesn't rely on python.
-* Make a cask.
