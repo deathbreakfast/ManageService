@@ -1,7 +1,7 @@
 Source: manage-service
 Section: python
 Priority: extra
-Build-Depends: python3, debhelper (>=9), dh-python
+Build-Depends: python3, python3-pip, debhelper (>=9), dh-python
 X-Python3-Version: 3.8
 Maintainer: Sean O'Rourke <deathbreakfast2@gmail.com>
 
